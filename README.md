@@ -38,6 +38,8 @@ git clone [This repo url]
 npm install
 #run the app
 npm run develop
+```
+
 
 ## Authors
 
